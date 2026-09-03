@@ -28,3 +28,5 @@ G = 3
 C = 1
 
 GC Content = 44.44 %
+## Project Output
+![DNA Analyzer Output](BIOINFO MINI.png)
